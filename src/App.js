@@ -258,7 +258,7 @@ const Portfolio = () => {
             <a href="mailto:ezhanmohammed@gmail.com" style={styles.socialLink}>
               <Mail size={24} />
             </a>
-            <a href="https://linkedin.com/in/mohammed-ezhan" style={styles.socialLink}>
+            <a href="https://www.linkedin.com/in/mohammed-ezhan-157a83148/" style={styles.socialLink}>
               <Linkedin size={24} />
             </a>
             <a href="#" style={styles.socialLink}>
