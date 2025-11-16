@@ -17,7 +17,7 @@ const TechStack = () => {
   }));
 
   return (
-    <section id="tech-stack" className="section section--surface">
+    <section id="skills" className="section section--surface">
       <header className="section__header">
         <div>
           <p className="section__eyebrow">
